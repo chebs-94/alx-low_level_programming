@@ -1,7 +1,5 @@
 #include <stdio.h>
 
-
-
 /**
  * main - Prints the numbers from 00 to 99
  *
@@ -9,7 +7,6 @@
  */
 
 int main(void)
-
 {
 	int c, i;
 
@@ -27,7 +24,6 @@ int main(void)
 			}
 		}
 	}
-
 	putchar('\n');
 	return (0);
 }
