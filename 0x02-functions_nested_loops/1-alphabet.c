@@ -9,17 +9,18 @@
 
 
 
-void print_alphabet(void)
+void print_alphabet(void);
 
 {
-	int j;
+int j;
 
 	for (j = 'a'; j <= 'z'; j++)
 
-	{
+{
+int j;
 
 		_putchar(j);
 
-	}
+xc}
 	_putchar('\n');
 }
