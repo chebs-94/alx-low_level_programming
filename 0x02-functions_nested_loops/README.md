@@ -1,1 +1,1 @@
-readme
+readme for c function
