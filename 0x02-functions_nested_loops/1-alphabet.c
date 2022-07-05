@@ -21,6 +21,6 @@ int j;
 
 		_putchar(j);
 
-xc}
+}
 	_putchar('\n');
 }
