@@ -3,22 +3,23 @@
 
 
 /**
- * print_alphabet -> prints the lowercase alphabets
- * Return: Always 0.
+ * print_alphabet - prints the alphabet in lowercase, followed by a new line.
  */
 
 void print_alphabet(void)
 
 {
-int j;
 
-	for (j = 'a'; j <= 'z'; j++)
+	char alpha;
 
-{
-int j;
 
-		_putchar(j);
 
-}
+	for (alpha = 97; alpha <= 122; alpha++)
+
+		_putchar(alpha);
+
+
+
 	_putchar('\n');
+
 }
