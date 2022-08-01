@@ -1,0 +1,6 @@
+#include <stdio.h>
+/*Write a program that prints the name of the file it was compiled from*/
+int main()
+{
+	printf("%s", \n  _file_);
+}
